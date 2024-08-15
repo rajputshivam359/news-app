@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Parachute trial: Emile Cilliers guilty of attempted murder",
+    "description": "Army sergeant Emile Cilliers denied trying to kill his wife by tampering with her parachute before a jump.",
+    "url": "https://www.bbc.co.uk/news/uk-england-44241364",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12C80/production/_91182967_mediaitem91182966.jpg",
+    "publishedAt": "2024-04-17T08:07:19.6568543Z",
+    "content": "An Army sergeant has been found guilty of trying to murder his wife by tampering with her parachute.\r\nVictoria Cilliers, 41, survived the 4,000ft (1,220m) fall at Netheravon airfield in Wiltshire in … [+3194 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US and EU eye new sanctions on Iran after attack on Israel",
+    "description": "Israel is urging Western allies to punish Tehran for the missile and drone attack on its territory.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68832045",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/494E/production/_133166781_rockjet5reuters.jpg",
+    "publishedAt": "2024-04-17T08:07:18.5459627Z",
+    "content": "The United States and the European Union say they are looking at imposing further sanctions on Iran, after its attack on Israel at the weekend.\r\nUS Treasury Secretary Janet Yellen said she expected t… [+4466 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "What is the UK smoking ban, how will it work and when will it start?",
+    "description": "The government wants to stop people smoking by raising the legal age limit for buying cigarettes.",
+    "url": "https://www.bbc.co.uk/news/health-68825322",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E38/production/_133167196_smoking-index-getty.jpg",
+    "publishedAt": "2024-04-17T07:52:16.7546301Z",
+    "content": "The Prime Minister Rishi Sunak wants to effectively ban smoking in the UK.\r\nMPs have voted to back the government's plans to create a \"smoke-free generation\", and reduce the number of smoking-related… [+4876 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Adidas on front foot after exiting Kanye West deal",
+    "description": "The Samba, Gazelle and Campus shoe maker expects to make €700m (£598m) operating profits in 2024.",
+    "url": "https://www.bbc.co.uk/news/business-68832173",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DAF9/production/_113175065_adidas.jpg",
+    "publishedAt": "2024-04-17T07:37:20.7968337Z",
+    "content": "Adidas has emerged from its bruising tie-in with rapper Kanye West and says it expects to make profits of 700m (£598m) in 2024.\r\nIn February the German sportswear giant said it planned to sell its re… [+1821 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine could face defeat in 2024. Here's how that might look",
+    "description": "With ammo critically low and Western aid stalled, what might Russia attempt in Ukraine this year?",
+    "url": "https://www.bbc.co.uk/news/world-europe-68778338",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12AE1/production/_133131567_gettyimages-1239614665.jpg",
+    "publishedAt": "2024-04-17T07:22:19.249955Z",
+    "content": "The former commander of the UK's Joint Forces Command has warned that Ukraine could face defeat by Russia in 2024.\r\nGeneral Sir Richard Barrons has told the BBC there is \"a serious risk\" of Ukraine l… [+7150 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Solomon Islands: The Pacific election being closely watched by China and the West",
+    "description": "The impoverished Solomon Islands is holding its first election since the country's pivot to Beijing.",
+    "url": "https://www.bbc.co.uk/news/world-australia-68824299",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D02/production/_133166886_gettyimages-2147868134.jpg",
+    "publishedAt": "2024-04-17T05:37:15.2964115Z",
+    "content": "In the Solomon Islands, the night before an election is known as Devil's Night.\r\nPolitical candidates offer bribes - handing out everything from cash to sacks of rice and Chinese-made solar panels to… [+6519 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "USC student's graduation speech cancelled in Israel-Gaza hate row",
+    "description": "The decision to cancel the valedictorian's speech came amid a backlash over her social media.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68828082",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1121/production/_133158340_usc1-2.jpg",
+    "publishedAt": "2024-04-17T04:22:15.2965571Z",
+    "content": "The University of Southern California (USC) has cancelled a student's graduation speech amid backlash over her social media activity on Israel. \r\nAsna Tabassum said she was the target of \"a campaign … [+2673 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia's meat grinder soldiers - 50,000 confirmed dead",
+    "description": "In the second 12 months on the front line the body count was nearly 25% higher than in the first year.",
+    "url": "https://www.bbc.co.uk/news/world-68819853",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11CAB/production/_133157827_russian_deaths_part2_index_promo_976-nc.png",
+    "publishedAt": "2024-04-17T03:52:18.0625534Z",
+    "content": "Ukraine, meanwhile, rarely comments on the scale of its battlefield fatalities. In February, President Volodymyr Zelensky said 31,000 Ukrainian soldiers had been killed - but estimates, based on US i… [+35 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump trial jury selection complicated by opinionated New Yorkers",
+    "description": "One rejected juror who spoke to the BBC outside court acknowledged the challenge of remaining impartial.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68832369",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1786E/production/_133166369_1c099d152aa8ebab290ae3c0f3c7874046f992910_380_2079_11691000x563.jpg",
+    "publishedAt": "2024-04-16T22:07:18.0939088Z",
+    "content": "Media caption, Watch: Could you be on the Trump jury? We asked New Yorkers\r\nA 40-year-old New Yorker did not expect to report to jury duty this week and come face to face with Donald Trump.\r\nYet he f… [+5249 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia to grow faster than all advanced economies says IMF",
+    "description": "The IMF estimates Russia's economy will grow faster than the likes of the US, UK and Germany this year.",
+    "url": "https://www.bbc.co.uk/news/business-68823399",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8A2C/production/_120727353__112965584_gettyimages-976188246-1.jpg",
+    "publishedAt": "2024-04-16T21:37:18.1245904Z",
+    "content": "An influential global body has forecast Russia's economy will grow faster than all of the world's advanced economies, including the US, this year. \r\nThe International Monetary Fund (IMF) expects Russ… [+2973 chars]"
+    }
+    ]
+    }
